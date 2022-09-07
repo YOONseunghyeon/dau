@@ -8,3 +8,4 @@
 - html, web site 주소 얻는법
 - setting -> pages -> none을 main 으로 변경후 save
 - https://withdatastory.tistory.com/19
+- www.w3schools.com
