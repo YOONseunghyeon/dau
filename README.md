@@ -9,3 +9,8 @@
 - setting -> pages -> none을 main 으로 변경후 save
 - https://withdatastory.tistory.com/19
 - www.w3schools.com
+### 2일차 필기
+- html 구조
+  - 계층적인 구조
+  - element의 모임(집합)
+  - < > 내용 </ > => element
