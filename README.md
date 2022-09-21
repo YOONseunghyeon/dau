@@ -42,4 +42,7 @@
 - 목록태그 : ul ,ol , dl
              li
 
+- table 테그 : tr(행),th(제목열), td(내용열)
 - table>te>th*3^tr*3>td*3
+- 멀티미디어 : <audio src=""> <video src="">
+  유튜브 삽입 : 오른쪽 -> 소스코드복사 -> html문서에 
