@@ -42,3 +42,4 @@
 - 목록태그 : ul ,ol , dl
              li
 
+- table>te>th*3^tr*3>td*3
