@@ -23,3 +23,11 @@
 - Document -> html -> head -> meta, title
 -                  -> body -> h1, ul
 -                                 ul -> li
+### 3일차 필기
+- html : element의 모임
+  - <tag 속성 = "값" .. > 내용 </tag> : element
+  - 내용이 없으면 종료 테그가 없음 (empty tag) : <br> <hr> <img><meta>
+  - 계층적 구조
+- emmet : (자식)+ (형제)^ (부모)*(반복){} 텍스트 $ {일련숫자}
+- 컨테이이너 : 콘텐츠를 담는
+  - header, nav , section, article ,aside, footer --> 레이아웃
