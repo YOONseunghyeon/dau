@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author"   content="윤승현" />
+    <meta name="author" content="윤승현" />
     <meta name="keywords" content="빅데이터, django, python" />
     <title>Welcome to Seunghyeon Shopping Mall</title>
 </head>
@@ -21,17 +21,59 @@
     <h1> Seunghyeon Site</h1>
     </header>
     <nav>
-        <ol type="A">
-            <li> 메뉴1</li>
-            <li> 메뉴2</li>
-            <li> 메뉴3</li>
-        </ol>
+        <!--ul>li*5{메인메뉴$}-->
+     <ul>
+        <li>메인메뉴1</li>
+        <li>메인메뉴2</li>
+        <li>메인메뉴3</li>
+        <li>메인메뉴4</li>
+        <li>메인메뉴5</li>
+     </ul>
     </nav>
     <section>
         <article>
-            image 삽입
+            <div class="photo"> <!--.:class, #: id-->
+                <img src="./images/bigdata.jpg" alt="bigdata 이미지">
+       </div>
+       <div class="action">
+            <h2>대외활동리스</h2>
+            <table border="1">
+                <tr>
+                    <th>기간</th>
+                    <th>대외활동</th>
+                    <th>주최</th>
+                </tr>
+                <tr>
+                    <td>2021.03.</td>
+                    <td>마케팅전략 경진대회</td>
+                    <td>정보시스템학회</td>
+                </tr>
+                <tr>
+                    <td>2022.05.</td>
+
+                    <td>롯데 빅데이터 경진대회</td>
+                    <td>롯데그룹</td>
+                </tr> 
+                <tr>
+                    <td>2022.08.</td>
+                    <td>머신러닝 교육프로그램</td>
+                    <td>동아대학교</td>
+                </tr>       
+            </table>
+        </div>
         </article>
-        <article></article>
+        <br><br>
+        <article>
+            <div class="media">
+                <h2>좋아하는 음악</h2>
+               <audio src="./media/music01.mp3" controls></audio>
+               <br>
+               <h2>북금곰 살리자</h2>
+                <video src="./media/movie.mp4" controls width="50%"></video>
+                <h3>휘성의 결혼까지 생각했어</h3>
+                <iframe width="896" height="504" src="https://www.youtube.com/embed/xVU-UUKHYeQ" title="휘성 파이널 라운드 미션곡, '결혼까지 생각했어'♬ - 히든싱어2 9회 [휘성 편]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </article>
         <article></article>
         <aside> 즐겨찾기 넣기
 
