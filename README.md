@@ -30,4 +30,16 @@
   - 계층적 구조
 - emmet : (자식)+ (형제)^ (부모)*(반복){} 텍스트 $ {일련숫자}
 - 컨테이이너 : 콘텐츠를 담는
-  - header, nav , section, article ,aside, footer --> 레이아웃
+  - header, nav , section, article ,aside, footer --> 레이아웃(sementic)
+- div : 공간분할
+- #: id(이름이 유니크해야함)     . : class (동일한 이름 사용가능)
+
+ span
+
+- 글꼴: b,i,h1~h6,p,br ~~~
+
+- 이미지 : <img src=" "/>
+- 목록태그 : ul ,ol , dl
+             li
+
+ 
