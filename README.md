@@ -47,6 +47,5 @@
 - 멀티미디어 : <audio src=""> <video src="">
   유튜브 삽입 : 오른쪽 -> 소스코드복사 -> html문서에 
 ### 4일차 필기
-- 문서내, 문서간 이동
-  -<a>
-  ![image](https://user-images.githubusercontent.com/97490561/191919710-fde0d4ad-16f8-4226-b767-546a90513232.png)
+![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/97490561/191919710-fde0d4ad-16f8-4226-b767-546a90513232.png)
