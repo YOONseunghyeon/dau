@@ -80,3 +80,15 @@ selector=선택자 {
 <css 계층구조 해당범위>
 > : 자식 ( 부모의 바로 밑에 자식만 해당 )      {자식선택자 ,  자손선택자는 차이가 있음}
 스페이스 : 자손( 내 손주도 자손으로 해당 )
+
+
+### 11월 11일 (기말 시험 공부)
+- beck-end: .net ASP, PHP, jsp&Servlet , 파이썬의 디장고
+- MVC : django dhl
+  M : Model (데이터베이스)
+  V : View는 django의 Templates(화면에 보여주는 내용)
+  C : Controller을 의미
+- MVT : django
+  M : Model (데이터베이스)
+  V : View.py => 처리함수
+  T : Templates => 화면에 보여주는 내용
