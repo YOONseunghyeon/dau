@@ -92,3 +92,17 @@ selector=선택자 {
   M : Model (데이터베이스)
   V : View.py => 처리함수
   T : Templates => 화면에 보여주는 내용
+- {{ }}: 변수
+  {% %} : 파이썬 코드, django template tag
+  
+- 반복문 :
+  n = [10,20,10,15] # list
+  {% for i in n: %}
+    {{i}}
+  {% end fof %}
+
+- 자료구조 :
+  - 리스트 : []
+  - 튜플 : ()
+  - set : {}
+  - dictionary : { key:value,key:value ....}
